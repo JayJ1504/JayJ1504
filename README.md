@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @JayJ1504
+- 👋 Hi, I’m Jay!
 - 👀 I’m interested in machine learning and artificial intelligence.
 - 🌱 I’m currently learning web development, blockchain.
 - 💞️ I’m looking to collaborate on whatever's available.
