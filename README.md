@@ -5,7 +5,7 @@ Welcome to my GitHub profile, where I showcase projects that reflect my curiosit
 
 ## About Me
 
-Hi, I'm **Jay Jahagirdar** — a passionate and driven developer currently pursuing B.Tech in Computer Science at MIT-ADT University.  
+Hi, I'm *Jay Jahagirdar* — a passionate and driven developer currently pursuing B.Tech in Computer Science at MIT-ADT University.  
 I thrive on solving real-world problems through clean code, thoughtful design, and continuous exploration of emerging technologies.
 
 - 🌱 Currently building: AI/ML projects, mental wellness systems, and cloud-integrated apps  
@@ -14,7 +14,7 @@ I thrive on solving real-world problems through clean code, thoughtful design, a
 
 ## Skills & Technologies
 
-html,css,aws,java,ai,supabase,vscode,cpp,discord,github,figma
+html,css,was, java, ai,supabase,vscode,cpp ,discord,github,figma
 
 ## Top Projects
 
