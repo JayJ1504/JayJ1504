@@ -1,8 +1,3 @@
-## Who I Am
-
-Hi, I'm Jay — a passionate and driven developer with a strong interest in building impactful solutions and exploring emerging technologies.
-Welcome to my GitHub profile, where I showcase projects that reflect my curiosity, problem-solving mindset, and commitment to continuous learning.
-
 ## About Me
 
 Hi, I'm *Jay Jahagirdar* — a passionate and driven developer currently pursuing B.Tech in Computer Science at MIT-ADT University.  
